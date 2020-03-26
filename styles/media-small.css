@@ -1,0 +1,68 @@
+@import url("main.css");
+#wrapper{
+	width: 100%; 
+	margin: 0 auto; 
+}
+
+#mainnav{
+	width: 100%; 
+	background-color: #4f4c4b;
+	font-size: 11pt;
+}
+
+#navbar{
+	width: 100%; 
+	display: block;
+	margin: auto; 
+	text-align: center;
+}
+
+#mainnav ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4f4c4b;
+}
+
+#mainnav li {
+	color: #f9f9f4;
+}
+
+#mainnav li a {
+	display: block;
+    color: #f9f9f4;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+#mainnav li a:hover {
+    background-color: black;
+}
+
+#c-content {
+	width: 90%;
+	margin: auto; 
+}
+
+#left, #right {
+    float: left;
+    width: 100%;
+}
+
+
+#boxed-title {
+    font-family: 'Alfa Slab One', cursive;
+    color: #4f4c4b;
+    font-size: 25px;
+    letter-spacing: 1px;
+    background-color: #f9f9f4;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+
+#leftcolumn, #middlecolumn, #rightcolumn {
+    width: 100%;
+}

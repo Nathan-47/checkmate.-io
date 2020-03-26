@@ -1,0 +1,7 @@
+@import url("media-small.css") (max-width: 799px);
+@import url("media-medium.css") (min-width:800px) and (max-width:1399px);
+@import url("media-large.css") (min-width: 1400px);
+
+body {
+	margin: 0px;
+}
